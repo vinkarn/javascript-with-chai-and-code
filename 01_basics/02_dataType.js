@@ -1,4 +1,5 @@
-"use strict"
+"use strict"//use the lastest version of javascript as a whole
+//refer to my notes for more insights
 
 // alert("vinay");//cannot be execute on node, in this way. There is completly another method for running alert using node
 
