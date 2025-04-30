@@ -19,6 +19,7 @@ console.log(accountId, accountEmail, accountPassword);//either we can print data
 
 console.table([accountId,  accountEmail, accountPassword]);//or this method for printing data
 //it is much clear and better for data representation
+//array is passed in .table function
 
 /*prefer not to use 'var'
 
